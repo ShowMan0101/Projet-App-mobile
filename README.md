@@ -1,6 +1,6 @@
 # Projet-App-mobile
 #Membres:
-Rayane Tabouri
-Ariles Tahraoui
-Aziz Djouder
-Akram Bouhraoua
+Rayane Tabouri\n
+Ariles Tahraoui\n
+Aziz Djouder\n
+Akram Bouhraoua\n
